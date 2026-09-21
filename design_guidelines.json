@@ -1,0 +1,36 @@
+{
+  "project_name": "Royal Wedding Events - One Point Contact Delhi NCR",
+  "app_type": "marketing_site / landing_page",
+  "theme_strategy": {
+    "archetype": "Architectural Indian Royal Luxury & Botanical Celebration",
+    "primary_theme": "Light & Warm Festive Regal Ivory with Royal Crimson, Antique Gold, and Deep Emerald accents",
+    "background": "#FAF6F0",
+    "surface": "#FFFFFF",
+    "text_primary": "#1A1818",
+    "text_secondary": "#655D56",
+    "border": "#E5D8C5",
+    "accent_primary": "#7A1C2E",
+    "accent_gold": "#D4AF37",
+    "accent_emerald": "#1B4D3E",
+    "typography_serif": "Playfair Display, Georgia, serif",
+    "typography_sans": "Inter, system-ui, sans-serif"
+  },
+  "services": [
+    "Haldi Ceremony",
+    "Ring Ceremony",
+    "Wedding & Reception Arrangements",
+    "Professional Photographer & Videographer",
+    "DJ & Sound System",
+    "Live Band / Band Baja",
+    "Vintage & Luxury Car",
+    "Ghori / Wedding Horse",
+    "Mehndi Artist",
+    "Dhol Wala",
+    "Complete Wedding Event Coordination & Management"
+  ],
+  "contact": {
+    "phone_numbers": ["9990018638", "9990018637"],
+    "whatsapp": "919990018638",
+    "serving_area": "Delhi NCR & nearby areas"
+  }
+}
